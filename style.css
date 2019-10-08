@@ -6,9 +6,8 @@
 }
 body {
    background-image: url(image/IMO_3702.jpg);
-    background-color: cover;
-    background-position: center;
-   box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: 1350px 700px;
     font-family: sans-serif;
 
 }
