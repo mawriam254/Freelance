@@ -5,11 +5,10 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url(image/IMO_3702.jpg);
-
-    background-size: cover;
+   background-image: url(image/IMO_3702.jpg);
+    background-color: cover;
     background-position: center;
-   
+   box-sizing: border-box;
     font-family: sans-serif;
 
 }
